@@ -27,9 +27,9 @@ This topic is part of a tabular modeling tutorial, which should be completed in 
   
 ## Create measures  
   
-#### To create a DaysCurrentQuarterToDate measure in the DimDate table  
+#### To create a DaysCurrentQuarterToDate measure in the FactInternetSales table  
   
-1.  In the model designer, click the **DimDate** table.  
+1.  In the model designer, click the **FactInternetSales** table.  
   
 2.  In the measure grid, click the top-left empty cell.  
   
@@ -46,9 +46,9 @@ This topic is part of a tabular modeling tutorial, which should be completed in 
     Unlike calculated columns, with measure formulas you can type the measure name, followed by a colon, followed by the formula expression.
 
   
-#### To create a DaysInCurrentQuarter measure in the DimDate table  
+#### To create a DaysInCurrentQuarter measure in the FactInternetSales table  
   
-1.  With the **DimDate** table still active in the model designer, in the measure grid, click the empty cell below the measure you created.  
+1.  With the **FactInternetSales** table still active in the model designer, in the measure grid, click the empty cell below the measure you created.  
   
 2.  In the formula bar, type the following formula:  
   
